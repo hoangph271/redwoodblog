@@ -8,7 +8,8 @@
     ]
   },
   "scripts": {
-    "dev": "yarn redwood dev"
+    "dev": "yarn redwood dev",
+    "prisma:studio": "yarn rw prisma studio"
   },
   "devDependencies": {
     "@redwoodjs/core": "1.5.2"
